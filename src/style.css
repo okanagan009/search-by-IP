@@ -118,7 +118,7 @@
     font-weight: 700;
     font-size: 2rem;
   }
-  .map {
+  #map {
     min-height: calc(100vh - 200px);
   }
   
